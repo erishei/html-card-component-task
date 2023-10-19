@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    display: flex;
+    height: 500px;
+    width: 920px;
+}
+
+.section-1 {
+    background-color: #E28625;
+    width: 307px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.section-2 {
+    background-color: #006971;
+    width: 307px;
+}
+
+.section-3 {
+    background-color: #004140;
+    width: 307px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+button {
+    background-color: white;
+    border: none;
+    border-radius: 25px;
+    width: 146px;
+    height: 48px;
+
+}
+
+/*!* Small (sm) *!*/
+/*@media (min-width: 640px) {*/
+/*}*/
+
+/*!* Medium (md) *!*/
+/*@media (min-width: 768px) {*/
+/*    !* Your styles for the medium breakpoint here *!*/
+/*}*/
+
+/*!* Large (lg) *!*/
+/*@media (min-width: 1024px) {*/
+/*    !* Your styles for the large breakpoint here *!*/
+/*}*/
+
+/*!* Extra Large (xl) *!*/
+/*@media (min-width: 1280px) {*/
+/*    !* Your styles for the extra large breakpoint here *!*/
+/*}*/
+
+/*!* 2XL (2xl) *!*/
+/*@media (min-width: 1536px) {*/
+/*    !* Your styles for the 2XL breakpoint here *!*/
+/*}*/
